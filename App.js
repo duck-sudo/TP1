@@ -36,8 +36,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#f6f7fb',
   },
   header: {
-    flexDirection: 'row',        // 🟢 puts logo + text on the same line
-    alignItems: 'center',        // vertically centers them
+    flexDirection: 'row',        
+    alignItems: 'center',        
     marginBottom: 30,
   },
   logo: {
